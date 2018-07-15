@@ -37,7 +37,7 @@
                 $('header, body').removeClass('active');
             }   
         } else {
-            window.location.replace("http://theleanprogrammer.herokuapp.com/subscribe");
+            window.open("http://madhavbahl.tech/subscribe/");
         }
         
     });

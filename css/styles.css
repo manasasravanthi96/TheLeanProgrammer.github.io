@@ -1245,3 +1245,29 @@ footer {
     padding: 15px;
     margin-top: 0;
 }
+
+#portBtnCont {
+    width: 100%;
+    text-align: center;
+}
+
+#portfolio-button {
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    background: #3498db;
+    border-radius: 4px;
+    padding: 5px 10px;
+    border: none;
+    color: #fff;
+    font-weight: 700;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: .5s ease all;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+.portfolio {
+    background-color: #fff !important;
+}
