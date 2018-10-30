@@ -1,0 +1,25 @@
+{
+  "name": "website_static",
+  "version": "1.0.0",
+  "description": "[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)",
+  "main": "index.js",
+  "dependencies": {
+    "all-contributors-cli": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLeanProgrammer/TheLeanProgrammer.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLeanProgrammer/TheLeanProgrammer.github.io/issues"
+  },
+  "homepage": "https://github.com/TheLeanProgrammer/TheLeanProgrammer.github.io#readme"
+}
